@@ -7,6 +7,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
    - title: "Media"
-     url: /media.md/
+     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"
   #   url: /sitemap/
