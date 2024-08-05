@@ -1,7 +1,7 @@
 ---
 layout: collection
 ---
-# Projects
+<h1 align="center"> Projects </h1>
 
 ## [Field-Scale Greenhouse Gas Emissions Modeling](projects/agu_presentation.md)
 
