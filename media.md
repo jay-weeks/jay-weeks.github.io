@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Portfolio-test
+layout: collection
 ---
 
 # Technical Publications
