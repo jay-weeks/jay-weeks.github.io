@@ -9,7 +9,7 @@ layout: collection
 #    text: "Reuters try PR stupid commenters should isn't # a business model"
 ---
 
-# Technical Publications
+<h1 align="center"> Technical Publications</h1>
 
 1)	**Weeks, J.**, G.M. Hettiarachchi, E. Santos, and J. Tatarko. 2021. Potential human inhalation exposure to soil contaminants in urban gardens on brownfields sites– a breath of fresh air? [J. Environ. Qual. 50:782-790.](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/jeq2.20208)
 

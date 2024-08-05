@@ -1,7 +1,6 @@
 ---
 layout: collection
 ---
-
 # Projects
 
 ## [Field-Scale Greenhouse Gas Emissions Modeling](projects/agu_presentation.md)
