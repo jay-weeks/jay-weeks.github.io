@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: collection
 ---
 
 <h1 align="center"> Field-Scale Greenhouse Gas <br> Emissions Modeling </h1>
