@@ -7,7 +7,11 @@ author_profile: true
 
 
 
-<h2 align="center"> [Field-Scale Greenhouse Gas Emissions Modeling](/projects/agu_presentation/) </h2>
+<h2 align="center"> 
+    <a href="/projects/agu_presentation/">
+        Field-Scale Greenhouse Gas Emissions Modeling
+    </a>
+</h2>
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_field_emissions.png">
@@ -21,7 +25,11 @@ Modeling greenhouse gas emissions from agricultural fields provides an opportuni
 
 <br>
 
-<h2 align="center"> [Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in mildly calcareous soils](/projects/source_matters/) </h2>
+<h2 align="center"> 
+    <a href="/projects/source_matters/">
+        Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in mildly calcareous soils
+    </a>
+</h2>
 
 <p align="center">
     <a href="/images/source_matters/resin_ext_p_calc.png">
