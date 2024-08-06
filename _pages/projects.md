@@ -5,7 +5,7 @@ author_profile: true
 ---
 <h1 align="center"> Projects </h1>
 
-## [Field-Scale Greenhouse Gas Emissions Modeling](projects/agu_presentation.md)
+## [Field-Scale Greenhouse Gas Emissions Modeling](/_pages/agu_presentation.md)
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_field_emissions.png">
