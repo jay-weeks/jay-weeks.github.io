@@ -1,5 +1,6 @@
 ---
 layout: collection
+author_profile: true
 ---
 
 <h1 align="center"> Field-Scale Greenhouse Gas <br> Emissions Modeling </h1>
