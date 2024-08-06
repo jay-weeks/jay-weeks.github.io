@@ -6,11 +6,7 @@ author_profile: true
 
 <h1 align="center"> Field-Scale Greenhouse Gas <br> Emissions Modeling </h1>
 
-[<span style="font-size:0.75em;">Presented at the 2023 American Geophysical Union Annual Meeting</span>](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1395322)
-
-[Presented at the 2023 American Geophysical Union Annual Meeting](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1395322)
-
-
+[<span style="font-size:0.9em;">Presented at the 2023 American Geophysical Union Annual Meeting</span>](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1395322)
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_title_slide.jpg">
