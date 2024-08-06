@@ -16,14 +16,14 @@ author_profile: true
 <p align="center">
     <a href="/images/agu_2023/agu_2023_field_emissions.png">
         <kbd>
-            <img src="/images/agu_2023/agu_2023_field_emissions.png" width="200" height="200">
+            <img src="/images/agu_2023/agu_2023_field_emissions.png" width="300" height="300">
         </kbd>
     </a>
 </p>
 
 Modeling greenhouse gas emissions from agricultural fields provides an opportunity to optimize low emissions supply chains and identify regions in which invention programs that promote soil health and improved fertilizer use efficiency may be most effective. 
 
-<br>
+---
 
 <h2 align="center"> 
     <a href="/projects/source_matters/">
@@ -34,10 +34,10 @@ Modeling greenhouse gas emissions from agricultural fields provides an opportuni
 <p align="center">
     <a href="/images/source_matters/resin_ext_p_calc.png">
         <kbd>
-            <img src="/images/source_matters/resin_ext_p_calc.png" width="200" height="200" >
+            <img src="/images/source_matters/resin_ext_p_calc.png" width="300" height="300" >
         </kbd>
     </a>
 </p>
 
-My soil phosphorus research, using wet chemical and synchrotron-based techniques, has demonstrated that fertilizer source (i.e., ortho- vs. polyphosphate) likely plays a greater role in determining fertilizer use efficiency in calcareous soils than the industry currently recognizes providing opportunities for new and/or improved fertilizer products in the future. 
+Using wet chemical and synchrotron-based techniques, this research demonstrated that phosphorus fertilizer source (i.e., ortho- vs. polyphosphate) likely plays a greater role in determining fertilizer use efficiency in P-fixing soils than the industry currently recognizes providing opportunities for new and/or improved products in the future. 
 
