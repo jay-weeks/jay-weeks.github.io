@@ -17,13 +17,13 @@ author_profile: true
 
 2)	**Weeks, J.** and G.M. Hettiarachchi. 2020. Source and formulation matter: new insights into phosphorus fertilizer fate and transport in mildly calcareous soils. [Soil Sci. Soc. Am. J. 84:731-746.](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/saj2.20054)
 
-3)	**Weeks, J.** and G.M. Hettiarachchi. 2019. A review of the latest in phosphorus fertilizer technology: Possibilities and pragmatism. [J. Environ. Qual. 48:1300-1313.](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2019.02.0067) <span style="color:#D35400">Open Access</span>
+3)	**Weeks, J.** and G.M. Hettiarachchi. 2019. A review of the latest in phosphorus fertilizer technology: Possibilities and pragmatism. [J. Environ. Qual. 48:1300-1313.](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2019.02.0067) <br> <span style="color:#D35400">Open Access</span>
 
-4)	**Weeks, J.** and G.M. Hettiarachchi. 2018. Can humic substances alter fertilizer reaction pathways in acid soils? [Fluid Journal. 26:5-7.](https://fluidfertilizer.org/wp-content/uploads/2018/08/Su18-A1.pdf) <span style="color:#D35400">Open Access</span>
+4)	**Weeks, J.** and G.M. Hettiarachchi. 2018. Can humic substances alter fertilizer reaction pathways in acid soils? [Fluid Journal. 26:5-7.](https://fluidfertilizer.org/wp-content/uploads/2018/08/Su18-A1.pdf) <br> <span style="color:#D35400">Open Access</span>
 
-5)	**Weeks, J.** and G.M. Hettiarachchi. 2017. Blending MAP, APP reduces fluid fertilizer input costs. [Fluid Journal. 25:12-16.](https://fluidfertilizer.org/wp-content/uploads/2017/03/W17-A3.pdf) <span style="color:#D35400">Open Access</span>
+5)	**Weeks, J.** and G.M. Hettiarachchi. 2017. Blending MAP, APP reduces fluid fertilizer input costs. [Fluid Journal. 25:12-16.](https://fluidfertilizer.org/wp-content/uploads/2017/03/W17-A3.pdf) <br> <span style="color:#D35400">Open Access</span>
 
-6)	Vega, M., H.V. Kulkarni, N. Mladenov, K. Johannesson, G.M. Hettiarachchi, P. Bhattacharya, N. Kumar, **J. Weeks**, M. Galkaduwa, and S. Datta. 2017. Biogeochemical controls on the release and accumulation of Mn and As in shallow aquifers, West Bengal, India. [Front. Environ. Sci. 5:29.](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2017.00029/full) <span style="color:#D35400">Open Access</span>
+6)	Vega, M., H.V. Kulkarni, N. Mladenov, K. Johannesson, G.M. Hettiarachchi, P. Bhattacharya, N. Kumar, **J. Weeks**, M. Galkaduwa, and S. Datta. 2017. Biogeochemical controls on the release and accumulation of Mn and As in shallow aquifers, West Bengal, India. [Front. Environ. Sci. 5:29.](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2017.00029/full) <br> <span style="color:#D35400">Open Access</span>
 
 7)	Montag, B.W., M.A. Reichenberger, N. Edwards, P.B. Ugorowski, M. Sunder, **J. Weeks**, and D.S. McGregor. 2015. Static sublimation purification process and characterization of LiZnP semiconductor material. [J. Cryst. Growth. 419:133-137.](https://www.sciencedirect.com/science/article/abs/pii/S0022024815001980)
 
