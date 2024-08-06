@@ -1,11 +1,11 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Curriculum Vitae"
+    url: /jay_weeks_cv/
   - title: "Projects"
-    url: /_pages/projects/
+    url: /projects/
   - title: "Media"
-    url: /_pages/media/
+    url: /media/
   #- title: "Projects"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"

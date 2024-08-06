@@ -37,4 +37,4 @@ excerpt: >
 
 #{% include feature_row %}
 ---
-
+I am a soil scientist and data scientist passionate about using science and modeling to build environmentally sound, profitable agricultural systems and businesses. While we live in an age of unprecedented access to information, I believe that long-lasting success can only be achieved when we truly understand and align incentive structures properly.

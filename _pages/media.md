@@ -1,5 +1,6 @@
 ---
 layout: collection
+permalink: /media/
 author_profile: true
 #sidebar:
 #  - title: "Role"

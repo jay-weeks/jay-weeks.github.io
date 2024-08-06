@@ -1,5 +1,6 @@
 ---
 layout: collection
+permalink: /projects/
 author_profile: true
 ---
 <h1 align="center"> Projects </h1>
