@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  #overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /images/konza_landscape.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
@@ -37,4 +37,4 @@ excerpt: >
 
 #{% include feature_row %}
 ---
-I work at the intersection of agricultural science, sustainability, and modeling to build environmentally sound, profitable agricultural systems and businesses. And while we live in an age of unprecedented access to information, I believe that long-lasting success can only be achieved when we truly understand and properly align incentive structures.
+I work at the intersection of agricultural science, sustainability, and modeling to build environmentally sound, profitable agricultural systems and businesses. And while data and models are certainly important, I believe that long-lasting impact can only be achieved when we truly understand and properly align incentive structures (social and financial) behind market-based solutions.
