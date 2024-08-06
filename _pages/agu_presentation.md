@@ -1,6 +1,6 @@
 ---
 layout: collection
-#permalink: /projects/agu_presentation/
+permalink: /projects/agu_presentation/
 author_profile: true
 ---
 
