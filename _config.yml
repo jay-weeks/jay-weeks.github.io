@@ -115,16 +115,16 @@ analytics:
 author:
   name             : "Jay Weeks, Ph.D."
   avatar           : "/images/profile_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Soil Scientist and Data Scientist"
+  bio              : "Soil Scientist & Data Scientist"
   location         : "Tampa, FL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jayweeks226@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jay-weeks/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
