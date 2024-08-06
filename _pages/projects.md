@@ -5,7 +5,9 @@ author_profile: true
 ---
 <h1 align="center"> Projects </h1>
 
-## [Field-Scale Greenhouse Gas Emissions Modeling](/projects/agu_presentation/)
+
+
+[<h2 align="center"> Field-Scale Greenhouse Gas Emissions Modeling </h2>](/projects/agu_presentation/)
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_field_emissions.png">
@@ -16,3 +18,18 @@ author_profile: true
 </p>
 
 Modeling greenhouse gas emissions from agricultural fields provides an opportunity to optimize low emissions supply chains and identify regions in which invention programs that promote soil health and improved fertilizer use efficiency may be most effective. 
+
+<br>
+
+[<h2 align="center"> Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in mildly calcareous soils </h2>](/projects/source_matters/)
+
+<p align="center">
+    <a href="/images/source_matters/resin_ext_p_calc.png">
+        <kbd>
+            <img src="/images/source_matters/resin_ext_p_calc.png">
+        </kbd>
+    </a>
+</p>
+
+My soil phosphorus research, using wet chemical and synchrotron-based techniques, has demonstrated that fertilizer source (i.e., ortho- vs. polyphosphate) likely plays a greater role in determining fertilizer use efficiency in calcareous soils than the industry currently recognizes providing opportunities for new and/or improved fertilizer products in the future. 
+
