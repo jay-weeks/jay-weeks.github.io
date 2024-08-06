@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
+  overlay_filter: "0.5"
   overlay_image: /images/konza_landscape.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
