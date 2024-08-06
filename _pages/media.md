@@ -1,5 +1,6 @@
 ---
 layout: collection
+author_profile: true
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
