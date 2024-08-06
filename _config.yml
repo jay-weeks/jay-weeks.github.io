@@ -116,7 +116,7 @@ author:
   name             : "Jay Weeks, Ph.D."
   avatar           : "/images/profile_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Soil Scientist & Data Scientist"
-  location         : "Tampa, FL"
+  location         : # "Tampa, FL"
   email            :
   links:
     - label: "Email"
