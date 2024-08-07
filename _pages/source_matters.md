@@ -47,15 +47,15 @@ After a 28 day incubation period, the soil from the dishes was excavated in conc
 
 ### Analysis
 Each sample ring was then analyzed for the following parameters:
-- **pH** – 1:10 soil:water
-- **Total P** (Aqua Regia Digestion - Premarathna et al., 2010) 
+- **pH**
+- **Total P** 
     - ICP-OES analysis
-- **Resin Extractable Orthophosphate - "Plant Available P"** (Khatiwada et al., 2012)
-    - Spectrophotometer Analysis (Molybdenum Blue Method - Murphy & Riley, 1962)
-- **Resin Extractable "Other P"** (McBeath, Smernik, Lombi, & McLaughlin, 2006)
-    - Spectrophotometer Analysis (Molybdenum Blue Method - Murphy & Riley, 1962)
-    - Note: "Other P" mainly pertains to yet to be hydrolyzed polyphosphates
-- **Sequential P Fractionation** (Baifan and Yichu, 1989)
+- **Resin Extractable Orthophosphate - "Plant Available P"** 
+    - Spectrophotometric Analysis 
+- **Resin Extractable "Other P"** 
+    - Spectrophotometric Analysis 
+    - Note: "Other P" = Polyphosphates
+- **Sequential P Fractionation** 
     - ICP-OES analysis
 - **Synchrotron-based X-ray Absorption Spectroscopy (XANES)**
 
@@ -68,14 +68,13 @@ While a wide variety treatments were tested in this project, a subset of the mos
 For all treatments, the vast majority of P stayed within 8mm of the point of application. Greater diffusion was observed in diluted applications and those containing polyphosphates.
 
 <p align="center">
-    <a href="/images/source_matters/resin_ext_p_calc.png">
+    <a href="/images/source_matters/total_p_calc.png">
         <kbd>
-            <img src="/images/source_matters/resin_ext_p_calc.png">
+            <img src="/images/source_matters/total_p_calc.png">
         </kbd>
     </a>
 </p>
 
-<br>
 
 ### Resin Extractable Orthophosphate - "Plant Available P"
 
