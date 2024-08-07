@@ -2,6 +2,7 @@
 layout: collection
 permalink: /projects/source_matters/
 author_profile: true
+toc: true
 ---
 
 <h1 align="center"> Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in <br> mildly calcareous soils </h1>
