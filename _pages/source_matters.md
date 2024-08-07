@@ -129,7 +129,7 @@ To get a better understanding of what may be happening to the treatments when th
     </a>
 </p>
 
-### Synchrotron-Based X-Ray Absorption Spectroscopy (XANES)
+### Synchrotron-Based X-Ray Absorption Spectroscopy
 
 
 <p align="center">
