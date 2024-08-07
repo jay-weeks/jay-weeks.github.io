@@ -14,7 +14,7 @@ author_profile: true
 </h2>
 
 <p align="center">
-    <a href="/images/agu_2023/agu_2023_field_emissions.png">
+    <a href="/projects/agu_presentation/">
         <kbd>
             <img src="/images/agu_2023/agu_2023_field_emissions.png" width="300" height="300">
         </kbd>
@@ -32,7 +32,7 @@ Modeling greenhouse gas emissions from agricultural fields provides an opportuni
 </h2>
 
 <p align="center">
-    <a href="/images/source_matters/calc_resin_ext_p.png">
+    <a href="/projects/source_matters/">
         <kbd>
             <img src="/images/source_matters/calc_resin_ext_p.png" width="300" height="300" >
         </kbd>
