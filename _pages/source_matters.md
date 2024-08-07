@@ -25,13 +25,15 @@ This project was a laboratory incubation study in which two mildly calcareous so
 
 ### Treatments
 
-|Fertilizers (9.2mg P)  |Dilutions (µL)      | Co-Applicants                 |
-|:---------------------:|:------------------:|:-----------------------------:|
-|APP                    | 125µL (16.9% P₂O₅) | Sodium Alginate (AG) – 1.25mg |
-|DAP                    | 625µL (3.4% P₂O₅)  |                               |
-|MAP                    |                    |                               |
-|Phosphoric Acid (PA)   |                    |                               |
-|80 MAP/20 APP (80/20)  |                    |                               |
+|Fertilizers (9.2mg P)    |Dilutions (µL)      | Co-Applicants                 |
+|:-----------------------:|:------------------:|:-----------------------------:|
+|**APP**                  | 125µL (16.9% P₂O₅) | Sodium Alginate (AG) – 1.25mg |
+|DAP                      | 625µL (3.4% P₂O₅)  |                               |
+|MAP                      |                    |                               |
+|Phosphoric Acid (PA)     |                    |                               |
+|**80 MAP/20 APP (80/20)**|                    |                               |
+
+**BOLD** = Contains Polyphosphates
 
 After a 28 day incubation period, the soil from the dishes was excavated in concentric rings (radii in mm) surrounding the fertilizer point of application, dried, and ground for analysis.  
 
@@ -48,7 +50,6 @@ Each sample ring was then analyzed for the following parameters:
 - pH
 - Total P 
 - Resin Extractable Orthophosphate - "Plant Available P" 
-    - Spectrophotometric Analysis 
 - Resin Extractable "Other P" 
     - Note: "Other P" = Polyphosphates
 - Sequential P Fractionation 
@@ -71,12 +72,26 @@ For all treatments, the vast majority of P stayed within 8mm of the point of app
 </p>
 
 
-### Resin Extractable Orthophosphate - "Plant Available P"
+### Resin Extractable "Plant Available" P
 
 Looking at the center, point of application (0-8mm) section results where the majority of the applied P remained, the overall plant availability performance can be summarized as:
 
 80/20 = APP = MAP 625 > PA = MAP + AG > MAP > DAP
- 
+
+<h4 align="center"> Orthophosphate (PO4) Extractability </h4>
+
+<p align="center">
+    <a href="/images/source_matters/resin_ext_p_calc_w_alg.png">
+        <kbd>
+            <img src="/images/source_matters/resin_ext_p_calc_w_alg.png">
+        </kbd>
+    </a>
+</p>
+
+At first glance, it appears that APP does not perform as well as treatments like 80/20 or MAP + Alginate. However, once the remaining, yet to be hydrolyzed, polyphosphates are accounted for, the performace is comparable. In the field, polyphosphates are thought to hyrolyze into orthophosphates relatively quickly. Here, that was not the case and thus remains an open question to be explored in the future. 
+
+<h4 align="center"> Orthophosphate (PO4) + Other P (Polyphosphates) </h4>
+
 <p align="center">
     <a href="/images/source_matters/resin_ext_p_calc.png">
         <kbd>
@@ -85,12 +100,11 @@ Looking at the center, point of application (0-8mm) section results where the ma
     </a>
 </p>
 
-This data suggests that, relative to traditional MAP and DAP fertilizers, P lability may be improved in calcareous soil through one of three ways:
-1. Including a small amount of polyphosphate with majority orthophosphate fertilizers (APP and 80/20 treatments)
-2. Applying higher volumes of more dilute, acidic fertilizers (MAP 625)
+The above observations suggests that, relative to traditional MAP and DAP fertilizers, P lability may be improved in calcareous soil through one of three ways:
+1. Including polyphosphates in orthophosphate fertilizers (APP and 80/20 treatments)
+2. Applying more dilute, acidic fertilizer formulations (MAP 625)
 3. Co-applying fertilizers with products like sodium alginate
 
 
 
 
- the orthophosphate (PO4) treatments MAP applied with alginate was as labile as the other top performers
