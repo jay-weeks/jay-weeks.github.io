@@ -113,10 +113,39 @@ To get a better understanding of what may be happening to the treatments when th
 ### Sequential P Fractionation
 
 <p align="center">
-    <a href="/images/source_matters/calc_resin_ext_p.png">
+    <a href="/images/source_matters/calc_sequential_p.png">
         <kbd>
-            <img src="/images/source_matters/calc_resin_ext_p.png">
+            <img src="/images/source_matters/calc_sequential_p.png">
         </kbd>
     </a>
 </p>
 
+
+<p align="center">
+    <a href="/images/source_matters/calc_sequential_p_regression.png">
+        <kbd>
+            <img src="/images/source_matters/calc_sequential_p_regression.png">
+        </kbd>
+    </a>
+</p>
+
+### Synchrotron-Based X-Ray Absorption Spectroscopy (XANES)
+
+
+<p align="center">
+    <a href="/images/source_matters/calc_xanes.png">
+        <kbd>
+            <img src="/images/source_matters/calc_xanes.png">
+        </kbd>
+    </a>
+</p>
+
+
+
+<p align="center">
+    <a href="/images/source_matters/calc_xanes_lcf.png">
+        <kbd>
+            <img src="/images/source_matters/calc_xanes_lcf.png">
+        </kbd>
+    </a>
+</p>
