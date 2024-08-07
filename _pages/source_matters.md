@@ -33,8 +33,6 @@ This project was a laboratory incubation study in which two mildly calcareous so
 |Phosphoric Acid (PA)   |                    |                               |
 |80 MAP/20 APP (80/20)  |                    |                               |
 
-<br>
-
 After a 28 day incubation period, the soil from the dishes was excavated in concentric rings (radii in mm) surrounding the fertilizer point of application, dried, and ground for analysis.  
 
 <p align="center">
@@ -47,17 +45,14 @@ After a 28 day incubation period, the soil from the dishes was excavated in conc
 
 ### Analysis
 Each sample ring was then analyzed for the following parameters:
-- **pH**
-- **Total P** 
-    - ICP-OES analysis
-- **Resin Extractable Orthophosphate - "Plant Available P"** 
+- pH
+- Total P 
+- Resin Extractable Orthophosphate - "Plant Available P" 
     - Spectrophotometric Analysis 
-- **Resin Extractable "Other P"** 
-    - Spectrophotometric Analysis 
+- Resin Extractable "Other P" 
     - Note: "Other P" = Polyphosphates
-- **Sequential P Fractionation** 
-    - ICP-OES analysis
-- **Synchrotron-based X-ray Absorption Spectroscopy (XANES)**
+- Sequential P Fractionation 
+- Synchrotron-based X-ray Absorption Spectroscopy
 
 <br>
 
