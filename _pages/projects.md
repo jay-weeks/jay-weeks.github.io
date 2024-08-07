@@ -32,9 +32,9 @@ Modeling greenhouse gas emissions from agricultural fields provides an opportuni
 </h2>
 
 <p align="center">
-    <a href="/images/source_matters/resin_ext_p_calc.png">
+    <a href="/images/source_matters/calc_resin_ext_p.png">
         <kbd>
-            <img src="/images/source_matters/resin_ext_p_calc.png" width="300" height="300" >
+            <img src="/images/source_matters/calc_resin_ext_p.png" width="300" height="300" >
         </kbd>
     </a>
 </p>

@@ -64,9 +64,9 @@ While a wide variety treatments were tested in this project, a subset of the mos
 For all treatments, the vast majority of P stayed within 8mm of the point of application. Greater diffusion was observed in diluted applications and those containing polyphosphates.
 
 <p align="center">
-    <a href="/images/source_matters/total_p_calc.png">
+    <a href="/images/source_matters/calc_total_p.png">
         <kbd>
-            <img src="/images/source_matters/total_p_calc.png">
+            <img src="/images/source_matters/calc_total_p.png">
         </kbd>
     </a>
 </p>
@@ -81,9 +81,9 @@ Looking at the center, point of application (0-8mm) section results where the ma
 <h4 align="center"> Orthophosphate (PO4) Extractability </h4>
 
 <p align="center">
-    <a href="/images/source_matters/resin_ext_p_calc_w_alg.png">
+    <a href="/images/source_matters/calc_resin_ext_p_w_alg.png">
         <kbd>
-            <img src="/images/source_matters/resin_ext_p_calc_w_alg.png">
+            <img src="/images/source_matters/calc_resin_ext_p_w_alg.png">
         </kbd>
     </a>
 </p>
@@ -93,9 +93,9 @@ At first glance, it appears that APP does not perform as well as treatments like
 <h4 align="center"> Orthophosphate (PO4) + Other P (Polyphosphates) </h4>
 
 <p align="center">
-    <a href="/images/source_matters/resin_ext_p_calc.png">
+    <a href="/images/source_matters/calc_resin_ext_p.png">
         <kbd>
-            <img src="/images/source_matters/resin_ext_p_calc.png">
+            <img src="/images/source_matters/calc_resin_ext_p.png">
         </kbd>
     </a>
 </p>
@@ -105,6 +105,18 @@ The above observations suggests that, relative to traditional MAP and DAP fertil
 2. Applying more dilute, acidic fertilizer formulations (MAP 625)
 3. Co-applying fertilizers with products like sodium alginate
 
+<h2 align="center"> Why are some formulations more plant available than others?
+ </h2>
 
+To get a better understanding of what may be happening to the treatments when they are applied to the soil, a sequential P fraction procedure and synchrotron-based X-ray absorption spectroscopy were used. 
 
+### Sequential P Fractionation
+
+<p align="center">
+    <a href="/images/source_matters/calc_resin_ext_p.png">
+        <kbd>
+            <img src="/images/source_matters/calc_resin_ext_p.png">
+        </kbd>
+    </a>
+</p>
 
