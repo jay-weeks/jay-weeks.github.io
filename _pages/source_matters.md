@@ -101,7 +101,7 @@ At first glance, it appears that APP does not perform as well as treatments like
 </p>
 
 The above observations suggests that, relative to traditional MAP and DAP fertilizers, P lability may be improved in calcareous soil through one of three ways:
-1. Including polyphosphates in orthophosphate fertilizers (APP and 80/20 treatments)
+1. Including polyphosphates in orthophosphate fertilizers <br> (APP and 80/20 treatments)
 2. Applying more dilute, acidic fertilizer formulations (MAP 625)
 3. Co-applying fertilizers with products like sodium alginate
 
