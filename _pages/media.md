@@ -1,7 +1,8 @@
 ---
-layout: collection
+layout: single
 permalink: /media/
 author_profile: true
+toc: true
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
@@ -9,9 +10,15 @@ author_profile: true
 #    text: "Designer, Front-End Developer"
 #  - title: "Responsibilities"
 #    text: "Reuters try PR stupid commenters should isn't # a business model"
+
+#<h1 align="center"> Technical Publications </h1>
+#<h1 align="center"> Patents </h1>
+#<h1 align="center"> Podcast </h1>
+#<h1 align="center"> Scientific Presentations </h1>
 ---
 
-<h1 align="center"> Technical Publications </h1>
+
+# Technical Publications
 
 1)	**Weeks, J.**, G.M. Hettiarachchi, E. Santos, and J. Tatarko. 2021. Potential human inhalation exposure to soil contaminants in urban gardens on brownfields sites– a breath of fresh air? [J. Environ. Qual. 50:782-790.](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/jeq2.20208)
 
@@ -29,7 +36,7 @@ author_profile: true
 
 <br>
 
-<h1 align="center"> Patents </h1>
+# Patents
 
 1)	Campbell et al. 2024. Systems and methods for ecosystem credit recommendations. 
 [U.S. Patent 11,880,894](https://patentcenter.uspto.gov/applications/17900428), issued January 23, 2024.
@@ -42,7 +49,8 @@ author_profile: true
 
 <br>
 
-<h1 align="center"> Podcast </h1>
+# Podcast
+
 January 15, 2019 - November 18, 2019 <br>
 Founded and co-hosted the ["Something to Chew On"](https://kstate-gfs.libsyn.com/#) podcast as part of the Kansas State University Global Food Systems Initiative. 
 
@@ -50,7 +58,7 @@ Founded and co-hosted the ["Something to Chew On"](https://kstate-gfs.libsyn.com
 
 <br>
 
-<h1 align="center"> Scientific Presentations </h1>
+# Scientific Presentations
 
 2023\. How high is your supply? Estimating field-level greenhouse gas emissions across the continental United States via remote sensing and machine learning. American Geophysical Union – Oral Session.
 

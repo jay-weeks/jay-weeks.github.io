@@ -1,7 +1,8 @@
 ---
-layout: collection
+layout: single
 permalink: /projects/agu_presentation/
 author_profile: true
+toc: true
 ---
 
 <h1 align="center"> Field-Scale Greenhouse Gas <br> Emissions Modeling </h1>
@@ -18,14 +19,14 @@ author_profile: true
 
 
 
-## Abstract 
+# Abstract 
 As many of the largest consumer packaged goods brands publicly commit to reducing their environmental footprints, the demand for reliable methods to quantify scope 3 greenhouse gas (GHG) emissions from commodity grain production is rapidly increasing. Indigo Ag is pioneering methods to estimate annual GHG emissions at continental-scale for corn, wheat, and other field crops. By training machine learning models on large datasets of fused publicly available resources (e.g., multi-temporal remote sensing imagery from Harmonized Landsat-Sentinel, USDA survey responses, etc.) and private, field-level management data collected directly from growers, total GHG emissions from individual field cultivation cycles can be predicted on auto-delineated field boundaries across large portions of the U.S. and flexibly aggregated to meet stakeholder needs. While on a field-by-field basis the presented methods may not be as accurate as a traditional life cycle impact assessment or biogeochemical model run, the approach allows for rapid, cost-efficient, regional-scale assessment with zero on-site data collection requirements.
 
 This advancement will allow for the agricultural community to better understand how spatiotemporal factors (e.g., weather, soil) combine with field management to influence regional emissions on an annual basis, pinpoint where intervention-type emissions reduction programs may have the largest return on investment, and target areas where further data collection and innovation are required. Here, we present methods for arriving at field-level GHG predictions with associated uncertainty metrics and highlight some general trends in field cropping emissions for sample counties of the United States followed by a brief discussion of where we see potential for future collaboration moving forward.
 
-## Highlights
+# Highlights
 
-### Field-Level Emissions
+## Field-Level Emissions
 
 The modeling system first predicted annual greenhouse gas emissions at the field-level. While interesting, the individual predictions themselves are likely not the most accurate given the coarse resolution of data available via satellite for any given field. However, these predictions serve as the foundation for meaningful interpretation of trends at scale and provide flexibility to aggregate information based on business needs and not according to arbitrary political boundaries (e.g., counties, states).
 
@@ -37,7 +38,7 @@ The modeling system first predicted annual greenhouse gas emissions at the field
     </a>
 </p>
 
-### Grain Elevator Assessment
+## Grain Elevator Assessment
 
 For example, emissions distributions are presented here for fields within a 30 mile radius of three grain elevator facilities. Each curve is comprised of hundreds to thousands of individual field-level observations, and we can see that the emissions estimate can vary substantially by field. 
 
@@ -52,7 +53,7 @@ In 2021, regardless of location emissions are relatively similar, but in 2022 th
     </a>
 </p>
 
-### Regional Trends
+## Regional Trends
 
 It is helpful to assess general emissions trends on larger scales as well to understand if grain sourcing decisions should be redirected and/or if intervention programs can be put in place to reduce GHG emissions in higher emitting areas.
 
