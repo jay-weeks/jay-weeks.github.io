@@ -116,11 +116,16 @@ To get a better understanding of what may be happening to the treatments when th
 ### Sequential P Fractionation
 
 The sequential fractionation procedure was completed in five steps to identify five different "pools" of P in calcareous soils:
-1. Dicalcium Phosphate (Highly soluble calcium phosphate - more plant available)
-2. Octacalcium Phosphate (Less soluble calcium phosphate - less plant available)
-3. Aluminum Associated P (Potentially plant available)
-4. Iron Associated P (Potentially plant available)
-5. Highly Insoluble Phosphate Minerals (Generally not plant available)
+1. Dicalcium Phosphate <br>
+    (Highly soluble calcium phosphate - more plant available)
+2. Octacalcium Phosphate <br> 
+    (Less soluble calcium phosphate - less plant available)
+3. Aluminum Associated P <br>
+    (Potentially plant available)
+4. Iron Associated P <br>
+    (Potentially plant available)
+5. Highly Insoluble Phosphate Minerals <br>
+    (Generally not plant available)
 
 The most striking result of this procedure was the significant divergence in partitioning between the orthophosphate-only treatments and those containing polyphosphates (80/20 and APP). Not only is the step 1 extractable P substantially lower in the polyphosphate treatments, but the iron and aluminum associated fractions are enriched relative to the orthophosphates as well. 
 
