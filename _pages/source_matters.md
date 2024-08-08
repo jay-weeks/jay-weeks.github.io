@@ -1,5 +1,5 @@
 ---
-layout: collection
+#layout: collection
 permalink: /projects/source_matters/
 author_profile: true
 toc: true
