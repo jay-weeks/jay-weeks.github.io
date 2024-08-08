@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /projects/source_matters/
 author_profile: true
 toc: true
