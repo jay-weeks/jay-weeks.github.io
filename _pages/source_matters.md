@@ -7,16 +7,16 @@ toc: true
 
 <h1 align="center"> Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in <br> mildly calcareous soils </h1>
 
-# TL;DR
+## TL;DR
 Generally, farmers select phosphorus fertilizers based on price and application method of choice, because the source itself is thought to not impact crop availability. Prior research has demonstrated that on highly calcareous soils (high pH and calcium carbonate concentration), liquid fertilizers perform better than their granular counterparts. This study, investigating the chemical fate of different liquid fertilizer formulations, suggests that source may influence plant availability more than previously thought. Combining polyphosphates and orthophosphates, applying more dilute formulations, and/or using certain co-applicants may improve nutrient use efficiency in these historically challenging soils allowing growers to potentially save on fertilizer costs and mitigate soil P loading that can contribute to freshwater pollution. 
 
-# Technical Abstract 
+## Technical Abstract 
 Phosphorus fertilizer use efficiency can be poor in calcareous soils as a result of calcium phosphate precipitation reactions. To avoid crop P deficiency, growers may apply more fertilizer than is agronomically necessary, creating a surplus of P in soil that can erode or leach into nearby waterbodies and promote eutrophication. This study investigated the effects of liquid P fertilizer source, application volume, and co-application of a gelling agent on P partitioning in two mildly calcareous soils from Kansas. Treatments included phosphoric acid, monoammonium phosphate (MAP), diammonium phosphate, ammonium polyphosphate (APP), and an 80% MAP/20% APP mixture applied at one total P rate over two concentrations or co-applied with sodium alginate (AG). Soils were incubated for 4 wk in Petri dishes and then sectioned in concentric rings from the point of application. Anion exchange resin (AER) extractability assessed plant availability and total P determination evaluated diffusion. Sequential extraction and synchrotron-based X-ray absorption near-edge structure spectroscopy were implemented to probe reaction products and pathways. Incorporation of polyphosphates, co-application of AG, and dilution with water improved the proportion of P that was AER extractable in the case of monoammonium phosphate from ∼36 to 66, 58, and 65%, respectively. Increased plant availability may be accomplished through a combination of at least two mechanisms: retarded ripening of calcium phosphate minerals into sparingly soluble forms and altered partitioning of P to soil colloids. Understanding the conditions under which these concepts scale to the field could result in increased farm profitability and nutrient use efficiency.
 
 Peer-Review Article Citation:
 **Weeks, J.** and G.M. Hettiarachchi. 2020. Source and formulation matter: new insights into phosphorus fertilizer fate and transport in mildly calcareous soils. [Soil Sci. Soc. Am. J. 84:731-746.](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/saj2.20054)
 
-# Methods Overview
+## Methods Overview
 This project was a laboratory incubation study in which two mildly calcareous soils, 1 and 2, from western Kansas were packed into Petri dishes at a bulk density of 1.1g/cm^3 and equilibrated to 50% maximum water holding capacity. Liquid fertilizer treatments of 9.2 mg P, the approximate amount of P in a MAP granule, were applied to the center of the dish in one of two volumes of water; 125µL or 625 µL.
 
 <p align="center">
@@ -27,7 +27,7 @@ This project was a laboratory incubation study in which two mildly calcareous so
     </a>
 </p>
 
-## Treatments
+### Treatments
 
 |Fertilizers (9.2mg P)    |Dilutions (µL)      | Co-Applicants                 |
 |:-----------------------:|:------------------:|:-----------------------------:|
@@ -49,7 +49,7 @@ After a 28 day incubation period, the soil from the dishes was excavated in conc
     </a>
 </p>
 
-## Analysis
+### Analysis
 Each sample ring was then analyzed for the following parameters:
 - pH
 - Total P 
@@ -59,10 +59,10 @@ Each sample ring was then analyzed for the following parameters:
 - Sequential P Fractionation 
 - Synchrotron-based X-ray Absorption Spectroscopy
 
-# Results Highlights
+## Results Highlights
 While a wide variety treatments were tested in this project, a subset of the most relevant results are disucssed here. Please see the paper and/or reach out to me for additional details. 
 
-## Total P Diffusion
+### Total P Diffusion
 For all treatments, the vast majority of P stayed within 8mm of the point of application. Greater diffusion was observed in diluted applications and those containing polyphosphates.
 
 <p align="center">
@@ -74,7 +74,7 @@ For all treatments, the vast majority of P stayed within 8mm of the point of app
 </p>
 
 
-## Resin Extractable "Plant Available" P
+### Resin Extractable "Plant Available" P
 
 Looking at the center, point of application (0-8mm) section results where the majority of the applied P remained, the overall plant availability performance can be summarized as:
 
@@ -112,7 +112,7 @@ The above observations suggests that, relative to traditional MAP and DAP fertil
 
 To get a better understanding of what may be happening to the treatments when they are applied to the soil, a sequential P fraction procedure and synchrotron-based X-ray absorption spectroscopy were used. 
 
-## Sequential P Fractionation
+### Sequential P Fractionation
 
 <p align="center">
     <a href="/images/source_matters/calc_sequential_p.png">
@@ -131,7 +131,7 @@ To get a better understanding of what may be happening to the treatments when th
     </a>
 </p>
 
-## Synchrotron-Based X-Ray Absorption Spectroscopy
+### Synchrotron-Based X-Ray Absorption Spectroscopy
 
 
 <p align="center">
