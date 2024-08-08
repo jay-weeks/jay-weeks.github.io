@@ -124,7 +124,7 @@ The sequential fractionation procedure was completed in five steps to identify f
     (Potentially plant available)
 4. Iron Associated P <br>
     (Potentially plant available)
-5. Highly Insoluble Phosphate Minerals <br>
+5. Remaining P - Highly Insoluble Phosphate Minerals <br>
     (Generally not plant available)
 
 The most striking result of this procedure was the significant divergence in partitioning between the orthophosphate-only treatments and those containing polyphosphates (80/20 and APP). Not only is the step 1 extractable P substantially lower in the polyphosphate treatments, but the iron and aluminum associated fractions are enriched relative to the orthophosphates as well. 
