@@ -37,7 +37,7 @@ This project was a laboratory incubation study in which two mildly calcareous so
 |Phosphoric Acid (PA)     |                    |                               |
 |**80 MAP/20 APP (80/20)**|                    |                               |
 
-**BOLD** = Contains Polyphosphates
+<b> <span style="font-size:0.5em;"> BOLD = Contains Polyphosphates</span> </b>
 
 After a 28 day incubation period, the soil from the dishes was excavated in concentric rings (radii in mm) surrounding the fertilizer point of application, dried, and ground for analysis.  
 
