@@ -42,7 +42,7 @@ The modeling system first predicted annual greenhouse gas emissions at the field
 
 For example, emissions distributions are presented here for fields within a 30 mile radius of three grain elevator facilities. Each curve is comprised of hundreds to thousands of individual field-level observations, and we can see that the emissions estimate can vary substantially by field. 
 
-In 2021, regardless of location emissions are relatively similar, but in 2022 they diverge. Given the local population of fields in this example, it may be that if given the option, a client may wish to work with facility A first, before sourcing from B and then C. 
+In 2021, regardless of location emissions are relatively similar, but in 2022 they diverge. Given the local population of fields in this example, it may be that if given the option, a client looking to source grain with a lower carbon footprint may wish to work with facility A first, before sourcing from B and then C. 
 
 
 <p align="center">
@@ -55,7 +55,7 @@ In 2021, regardless of location emissions are relatively similar, but in 2022 th
 
 ### Regional Trends
 
-It is helpful to assess general emissions trends on larger scales as well to understand if grain sourcing decisions should be redirected and/or if intervention programs can be put in place to reduce GHG emissions in higher emitting areas.
+It is also helpful to assess general emissions trends on larger scales to understand if grain sourcing decisions should be redirected and/or if intervention programs can be put in place to reduce GHG emissions in higher emitting areas.
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_il.png">
@@ -65,7 +65,7 @@ It is helpful to assess general emissions trends on larger scales as well to und
     </a>
 </p>
 
-Looking at the state of Illinois, the maximum return to N fertilizer [recommendation system](https://www.cornnratecalc.org/) (left) breaks the state into three distinct management regions. On average, the system tends to recommend higher nitrogen application rates in the south relative to the north. For example, for corn following soybeans in a year with a 10:1 Corn:N price ratio, 178 lbs N per acre are recommended in the north versus 200 lbs N per acre in the south.
+Nitrogen fertilizers are often one of the largest contributors to corn's carbon footprint as significant emissions are associated with the fertilizer's production and subsequent nitrous oxide release once applied to fields. Looking at the state of Illinois, the maximum return to N fertilizer [recommendation system](https://www.cornnratecalc.org/) (left) breaks the state into three distinct management regions. On average, the system tends to recommend higher nitrogen application rates in the south relative to the north. For example, for corn following soybeans in a year with a 10:1 Corn : N price ratio, 178 lbs N per acre are recommended in the north versus 200 lbs N per acre in the south. 
 
 This is partially due to the fact that soil organic carbon stocks (seen in the second tile) are generally higher in the north relative to the south. Typically, agronomists assume 10-20 lbs N per percent organic matter per year are provide to crops through normal soil carbon turnover. 
 

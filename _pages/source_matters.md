@@ -3,6 +3,10 @@ layout: single
 permalink: /projects/source_matters/
 author_profile: true
 toc: true
+
+## Implications for Innovation
+
+# It is true that today when liquid phosphorus fertilizer is applied, it is in the form of APP which is approximately 50/50 orthophosphate/polyphosphate.
 ---
 
 <h1 align="center"> Source and formulation matter: <br> New insights into phosphorus fertilizer fate and transport in <br> mildly calcareous soils </h1>
@@ -179,6 +183,3 @@ Recreation of the treatment spectra using known standards via an analysis techni
     </a>
 </p>
 
-## Implications for Innovation
-
-It is true that today when liquid phosphorus fertilizer is applied, it is in the form of APP which is approximately 50/50 orthophosphate/polyphosphate.
