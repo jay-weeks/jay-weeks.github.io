@@ -10,14 +10,12 @@ toc: true
 [<span style="font-size:0.9em;">Presented at the 2023 American Geophysical Union Annual Meeting</span>](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1395322)
 
 <p align="center">
-    <a href="/images/agu_2023/agu_2023_title_slide.jpg">
+    <a href="/images/agu_2023/agu_2023_title.png">
         <kbd>
-            <img src="/images/agu_2023/agu_2023_title_slide.jpg">
+            <img src="/images/agu_2023/agu_2023_title.png">
         </kbd>
     </a>
 </p>
-
-
 
 ## Abstract 
 As many of the largest consumer packaged goods brands publicly commit to reducing their environmental footprints, the demand for reliable methods to quantify scope 3 greenhouse gas (GHG) emissions from commodity grain production is rapidly increasing. Indigo Ag is pioneering methods to estimate annual GHG emissions at continental-scale for corn, wheat, and other field crops. By training machine learning models on large datasets of fused publicly available resources (e.g., multi-temporal remote sensing imagery from Harmonized Landsat-Sentinel, USDA survey responses, etc.) and private, field-level management data collected directly from growers, total GHG emissions from individual field cultivation cycles can be predicted on auto-delineated field boundaries across large portions of the U.S. and flexibly aggregated to meet stakeholder needs. While on a field-by-field basis the presented methods may not be as accurate as a traditional life cycle impact assessment or biogeochemical model run, the approach allows for rapid, cost-efficient, regional-scale assessment with zero on-site data collection requirements.
