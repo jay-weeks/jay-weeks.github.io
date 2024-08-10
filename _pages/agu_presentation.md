@@ -26,7 +26,7 @@ This advancement will allow for the agricultural community to better understand 
 
 ### Field-Level Emissions
 
-The modeling system first predicted annual greenhouse gas emissions at the field-level. While interesting, the individual predictions themselves are likely not the most accurate given the coarse resolution of data available via satellite for any given field. However, these predictions serve as the foundation for meaningful interpretation of trends at scale and provide flexibility to aggregate information based on business needs and not according to arbitrary political boundaries (e.g., counties, states).
+The first step in developing a regional-scale emissions estimate system was to build machine learning models that predicted annual greenhouse gas emissions at the field-level. Because detailed information about each field is not publicly available, training these models relied heavily on fusing satellite imagery and published information with private data collected from individual farmers. As a result, while interesting to look at, the individual predictions themselves are likely not the most accurate given the coarse resolution of widely available data. However, these predictions serve as the foundation for meaningful interpretation of trends at scale and provide flexibility to aggregate information based on business needs and not according to arbitrary political boundaries (e.g., counties, states).
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_field_emissions.png">
@@ -42,7 +42,6 @@ For example, emissions distributions are presented here for fields within a 30 m
 
 In 2021, regardless of location emissions are relatively similar, but in 2022 they diverge. Given the local population of fields in this example, it may be that if given the option, a client looking to source grain with a lower carbon footprint may wish to work with facility A first, before sourcing from B and then C. 
 
-
 <p align="center">
     <a href="/images/agu_2023/agu_2023_facility_emissions.png">
         <kbd>
@@ -53,7 +52,7 @@ In 2021, regardless of location emissions are relatively similar, but in 2022 th
 
 ### Regional Trends
 
-It is also helpful to assess general emissions trends on larger scales to understand if grain sourcing decisions should be redirected and/or if intervention programs can be put in place to reduce GHG emissions in higher emitting areas.
+One of the main goals of the project was to assess general emissions trends on larger scales to understand if grain sourcing decisions could be redirected from higher emitting areas to lower emitting areas and/or if intervention programs can be put in place to reduce GHG emissions in hot spots.
 
 <p align="center">
     <a href="/images/agu_2023/agu_2023_il.png">
@@ -77,7 +76,7 @@ Additionally, corn yields are typically higher in the north due to generally mor
     </a>
 </p>
 
-These factors of lower nitrogen application rates, higher yields, and others often combine to result in lower emissions on a per bushel basis in the north vs. the south as is predicted by the models.
+These factors of lower nitrogen application rates, higher yields, and others often combine to result in lower emissions on a per bushel basis in the north vs. the south.
 
 
 
