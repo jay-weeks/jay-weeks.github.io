@@ -5,7 +5,7 @@ author_profile: true
 ---
 <h1 align="center"> Projects </h1>
 
-
+I have been fortunate to work on a variety of projects aimed at improving the sustainability and profitability of agricultural systems. Please click on the project titles below for more details.
 
 <h2 align="center"> 
     <a href="/projects/agu_presentation/">
