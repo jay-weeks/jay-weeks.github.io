@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
   - title: "Curriculum Vitae"
     url: /jay_weeks_cv.pdf
   - title: "Projects"
