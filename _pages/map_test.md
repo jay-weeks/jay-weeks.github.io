@@ -11,5 +11,5 @@ toc: true
 </h2>
 
 <p align="center">
-<iframe src="/images/folium_test.html" height="800" width="800"></iframe>
+<iframe src="/images/folium_test.html" height="600" width="680"></iframe>
 </p>
