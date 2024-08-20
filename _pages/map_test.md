@@ -7,8 +7,10 @@ toc: true
 
 
 <h2 align="center"> 
-    <a href="/images/folium_test.html/">
+    <a>
         Map
     </a>
 </h2>
+
+<iframe src="/images/folium_test.html" height="500" width="500"></iframe>
 
