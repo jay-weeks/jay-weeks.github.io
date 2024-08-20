@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/usda_nass_api_demo/
+permalink: /projects/map_test/
 author_profile: true
 toc: true
 ---
