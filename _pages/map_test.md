@@ -7,6 +7,7 @@ toc: true
 
 Map 
 
+<html>
 <head>
     
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -265,3 +266,4 @@ Map
             tile_layer_c7f38276978234759a25fc4b39e8b6cc.addTo(map_04fa99e070b7429ec8080c6bb4e7d551);
         
 </script>
+</html>
