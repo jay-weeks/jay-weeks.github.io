@@ -7,7 +7,8 @@ toc: true
 
 
 <h2 align="center"> 
-    <a href="/images/folium_test.html">
+    <a href="/images/folium_test.html/">
         Map
     </a>
 </h2>
+
